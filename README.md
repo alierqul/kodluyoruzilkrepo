@@ -2,6 +2,8 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Java ile Backend Web Development Patikası eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README.md dosyası ve bir adet Index.html dosyası içerir.
 
+![Github](https://github.com/alierqul/kodluyoruzilkrepo/raw/main/figures/github.PNG)
+
 # Installation
 Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
